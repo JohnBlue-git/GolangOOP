@@ -179,9 +179,3 @@ func init() {
 ```sh
 go run main.go
 ```
-
-The example demonstrates:
-- Creating separate packages for models, utilities, and services
-- Exporting and importing functionality between packages
-- Using interfaces across package boundaries
-- Organizing a Go project with multiple packages
